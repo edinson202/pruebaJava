@@ -21,4 +21,4 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-!JavaApplication5\src\javaapplication5\mysql-connector-java-8.0.26.jar
+!src\javaapplication5\mysql-connector-java-8.0.26.jar
